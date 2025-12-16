@@ -1,0 +1,202 @@
+Uri: https://www.ibge-concurso-nacional.online/seguro/gerar/pagamento.html?name=Luis+Guilherme+da+Silva+Mattos&email=iofjs%40gmail.com&telephone=(81)+98893-0533&document=713.891.884-42&utm_source=jLj6940db84130ebe2588279759&utm_content=::Cj0KCQiAgP_JBhD-ARIsANpEMxyJ53CC_qmoefDWl3lS4PumVKZq-oVvLJmG0XTYhPZ6FeKFdLTOb4AaAvavEALw_wcB::
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\seguro\gerar\pagamento.html
+Content Type: text/html
+
+Uri: https://www.ibge-concurso-nacional.online/seguro/gerar/chrome-extension_/liecbddmkiiihnedobmlmillhodjkdmb/fonts/AtlassianSans-latin.html
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\seguro\gerar\chrome-extension_\liecbddmkiiihnedobmlmillhodjkdmb\fonts\AtlassianSans-latin.html
+Content Type: text/html
+
+Uri: https://www.ibge-concurso-nacional.online/seguro/gerar/fonts/rawline-400.ea42a37247439622.html
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\seguro\gerar\fonts\rawline-400.ea42a37247439622.html
+Content Type: text/html
+
+Uri: https://www.ibge-concurso-nacional.online/seguro/gerar/fonts/rawline-500.f8af4ec801afaa28.html
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\seguro\gerar\fonts\rawline-500.f8af4ec801afaa28.html
+Content Type: text/html
+
+Uri: https://www.ibge-concurso-nacional.online/seguro/gerar/fonts/rawline-600.844a17f0db94d147.html
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\seguro\gerar\fonts\rawline-600.844a17f0db94d147.html
+Content Type: text/html
+
+Uri: https://www.ibge-concurso-nacional.online/seguro/gerar/fonts/rawline-700.1c7c76152b40409f.html
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\seguro\gerar\fonts\rawline-700.1c7c76152b40409f.html
+Content Type: text/html
+
+Uri: https://www.ibge-concurso-nacional.online/seguro/gerar/fonts/rawline-800.5c5f78761d00551b.html
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\seguro\gerar\fonts\rawline-800.5c5f78761d00551b.html
+Content Type: text/html
+
+Uri: https://www.ibge-concurso-nacional.online/seguro/gerar/fonts/rawline-400i.1701033bc0b08320.html
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\seguro\gerar\fonts\rawline-400i.1701033bc0b08320.html
+Content Type: text/html
+
+Uri: https://www.ibge-concurso-nacional.online/cdn.utmify.com.br/scripts/utms/latest.js
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\cdn.utmify.com.br\scripts\utms\latest-7.js
+Content Type: application/javascript
+
+Uri: https://www.ibge-concurso-nacional.online/seguro/images/logo.png
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\seguro\images\logo-6.png
+Content Type: image/png
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\bootstrap\3.3.7\css\bootstrap.min-1.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=DM+Sans:300,300i,400,400i,600,600i,700,700i,800,800i
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\css-2.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,600,600i,700,700i,800,800i
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\css-3.css
+Content Type: text/css
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-9Q6H0QETRF&cx=c&_slc=1
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\gtag\js-1.js
+Content Type: application/javascript
+
+Uri: https://www.google-analytics.com/analytics.js
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\analytics-1.js
+Content Type: text/javascript
+
+Uri: https://cdn.tailwindcss.com/3.4.17
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\3.4-6.17
+Content Type: text/javascript
+
+ntent Type: application/vnd.ms-fontobject
+
+Uri: https://www.ibge-concurso-nacional.online/seguro/gerar/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\seguro\gerar\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.ibge-concurso-nacional.online/seguro/gerar/fonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\seguro\gerar\fonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://www.ibge-concurso-nacional.online/seguro/gerar/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\seguro\gerar\fonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.ibge-concurso-nacional.online/seguro/gerar/fonts/fa-regular-400.html
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\seguro\gerar\fonts\fa-regular-400.html
+Content Type: text/html
+
+Uri: https://www.ibge-concurso-nacional.online/seguro/gerar/fonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\seguro\gerar\fonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.ibge-concurso-nacional.online/seguro/gerar/fonts/fa-solid-900-1.eot
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\seguro\gerar\fonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.ibge-concurso-nacional.online/seguro/gerar/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\seguro\gerar\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.ibge-concurso-nacional.online/seguro/gerar/fonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\seguro\gerar\fonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://www.ibge-concurso-nacional.online/seguro/gerar/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\seguro\gerar\fonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://www.ibge-concurso-nacional.online/seguro/gerar/fonts/fa-solid-900.html
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\seguro\gerar\fonts\fa-solid-900.html
+Content Type: text/html
+
+Uri: https://cdn.tailwindcss.com/3.4.17
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\3.4-5.17
+Content Type: text/javascript
+
+Uri: https://conhecimento-fgvbr.site/cgi-sys/images/favicons/favicon.ico
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\cgi-sys\images\favicons\favicon.ico-5.html
+Content Type: text/html
+
+Uri: https://www.hostgator.com.br/
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\index-5.htm
+Content Type: text/html
+
+Uri: https://conhecimento-fgvbr.site/cgi-sys/images/logo-hostgator.svg
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\cgi-sys\images\logo-hostgator.svg-5.html
+Content Type: text/html
+
+Uri: https://conhecimento-fgvbr.site/cgi-sys/images/illustration-404.svg
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\cgi-sys\images\illustration-404.svg-5.html
+Content Type: text/html
+
+onhecimento-fgvbr.site/cgi-sys/images/illustration-404.svg
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\cgi-sys\images\illustration-404.svg-4.html
+Content Type: text/html
+
+avicon-76.html
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\seguro\cgi-sys\images\favicons\favicon-76.html
+Content Type: text/html
+
+Uri: https://www.ibge-concurso-nacional.online/seguro/cgi-sys/images/favicons/favicon-96.html
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\seguro\cgi-sys\images\favicons\favicon-96.html
+Content Type: text/html
+
+Uri: https://www.ibge-concurso-nacional.online/seguro/cgi-sys/images/favicons/favicon-128.html
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\seguro\cgi-sys\images\favicons\favicon-128.html
+Content Type: text/html
+
+Uri: https://www.ibge-concurso-nacional.online/seguro/cgi-sys/images/favicons/favicon-192.html
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\seguro\cgi-sys\images\favicons\favicon-192.html
+Content Type: text/html
+
+Uri: https://www.ibge-concurso-nacional.online/seguro/cgi-sys/images/favicons/favicon-120.html
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\seguro\cgi-sys\images\favicons\favicon-120.html
+Content Type: text/html
+
+Uri: https://www.ibge-concurso-nacional.online/seguro/cgi-sys/images/favicons/favicon-152.html
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\seguro\cgi-sys\images\favicons\favicon-152.html
+Content Type: text/html
+
+Uri: https://www.ibge-concurso-nacional.online/seguro/cgi-sys/images/favicons/favicon-180.html
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\seguro\cgi-sys\images\favicons\favicon-180.html
+Content Type: text/html
+
+Uri: https://www.ibge-concurso-nacional.online/seguro/cgi-sys/css/bootstrap.min.html
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\seguro\cgi-sys\css\bootstrap.min.html
+Content Type: text/html
+
+Uri: https://www.ibge-concurso-nacional.online/seguro/cgi-sys/css/fonts.html
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\seguro\cgi-sys\css\fonts.html
+Content Type: text/html
+
+Uri: https://www.ibge-concurso-nacional.online/seguro/cgi-sys/css/custom_404.html
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\seguro\cgi-sys\css\custom_404.html
+Content Type: text/html
+
+Uri: https://www.hostgator.com.br/
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\index.htm
+Content Type: text/html
+
+Uri: https://conhecimento-fgvbr.site/cgi-sys/images/logo-hostgator.svg
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\cgi-sys\images\logo-hostgator.svg.html
+Content Type: text/html
+
+Uri: https://conhecimento-fgvbr.site/cgi-sys/images/illustration-404.svg
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\cgi-sys\images\illustration-404.svg.html
+Content Type: text/html
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\bootstrap\3.3.7\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=DM+Sans:300,300i,400,400i,600,600i,700,700i,800,800i
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\css.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,600,600i,700,700i,800,800i
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\css-1.css
+Content Type: text/css
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-9Q6H0QETRF&cx=c&_slc=1
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://www.google-analytics.com/analytics.js
+File Name: C:\Downloaded Web Sites\www.ibge-concurso-nacional.online\analytics.js
+Content Type: text/javascript
+
